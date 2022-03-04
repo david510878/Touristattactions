@@ -1,0 +1,10 @@
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\bin\Debug\Tourist Attractions.exe.config
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\bin\Debug\Tourist Attractions.exe
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\bin\Debug\Tourist Attractions.pdb
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\obj\Debug\Tourist Attractions.csprojAssemblyReference.cache
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\obj\Debug\Tourist_Attractions.Form1.resources
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\obj\Debug\Tourist_Attractions.Properties.Resources.resources
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\obj\Debug\Tourist Attractions.csproj.GenerateResource.cache
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\obj\Debug\Tourist Attractions.exe
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\obj\Debug\Tourist Attractions.pdb
+C:\Users\dtnel787\source\repos\Tourist Attractions\Tourist Attractions\obj\Debug\Tourist_Attractions.Form2.resources

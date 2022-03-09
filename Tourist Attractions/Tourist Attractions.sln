@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tourist Attractions", "Tourist Attractions\Tourist Attractions.csproj", "{84021D20-9E02-4416-B894-6499C1C0405F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACB78E2F-EBC9-4476-80CA-4AE311E4034B}"
+	ProjectSection(SolutionItems) = preProject
+		imagelist.txt = imagelist.txt
+		Tourist Attractions\Program.cs = Tourist Attractions\Program.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pictures", "Pictures", "{177B7BF4-DE43-4B9C-A030-B2998CAA6357}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\car.PNG = ..\..\..\Pictures\car.PNG
+		..\..\..\Pictures\CoolBeans.jpg = ..\..\..\Pictures\CoolBeans.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84021D20-9E02-4416-B894-6499C1C0405F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84021D20-9E02-4416-B894-6499C1C0405F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84021D20-9E02-4416-B894-6499C1C0405F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84021D20-9E02-4416-B894-6499C1C0405F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB315FF-9245-4E5B-A85D-4BC8F3158CCB}
+	EndGlobalSection
+EndGlobal

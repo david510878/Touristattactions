@@ -39,7 +39,7 @@ namespace Tourist_Attractions
                 {
                     var contactDetails =
                        from c in placesStuffDataSet.Stuff_to_do_in_place
-                       where c.Location == Bruh
+                       where c.Location.ToLower() == Bruh.ToLower()
                        select c;
                     stuff_to_do_in_placeBindingSource.DataSource = contactDetails.AsDataView();
                 }
@@ -55,7 +55,7 @@ namespace Tourist_Attractions
                 {
                     var contactDetails =
                        from c in placesStuffDataSet.Stuff_to_do_in_place
-                       where c.ID2 == Bruh
+                       where c.ID2.ToLower() == Bruh.ToLower()
                        select c;
                     stuff_to_do_in_placeBindingSource.DataSource = contactDetails.AsDataView();
                 }
@@ -71,7 +71,7 @@ namespace Tourist_Attractions
                 {
                     var contactDetails =
                        from c in placesStuffDataSet.Stuff_to_do_in_place
-                       where c.Restaurants == Bruh
+                       where c.Restaurants.ToLower() == Bruh.ToLower()
                        select c;
                     stuff_to_do_in_placeBindingSource.DataSource = contactDetails.AsDataView();
                 }
@@ -87,7 +87,7 @@ namespace Tourist_Attractions
                 {
                     var contactDetails =
                        from c in placesStuffDataSet.Stuff_to_do_in_place
-                       where c.Stores == Bruh
+                       where c.Stores.ToLower() == Bruh.ToLower()
                        select c;
                     stuff_to_do_in_placeBindingSource.DataSource = contactDetails.AsDataView();
                 }
@@ -103,7 +103,7 @@ namespace Tourist_Attractions
                 {
                     var contactDetails =
                        from c in placesStuffDataSet.Stuff_to_do_in_place
-                       where c.Sightseeing == Bruh
+                       where c.Sightseeing.ToLower() == Bruh.ToLower()
                        select c;
                     stuff_to_do_in_placeBindingSource.DataSource = contactDetails.AsDataView();
                 }
@@ -119,7 +119,7 @@ namespace Tourist_Attractions
                 {
                     var contactDetails =
                        from c in placesStuffDataSet.Stuff_to_do_in_place
-                       where c.Tours == Bruh
+                       where c.Tours.ToLower() == Bruh.ToLower()
                        select c;
                     stuff_to_do_in_placeBindingSource.DataSource = contactDetails.AsDataView();
                 }
@@ -135,7 +135,7 @@ namespace Tourist_Attractions
                 {
                     var contactDetails =
                        from c in placesStuffDataSet.Stuff_to_do_in_place
-                       where c.Hotels == Bruh
+                       where c.Hotels.ToLower() == Bruh.ToLower()
                        select c;
                     stuff_to_do_in_placeBindingSource.DataSource = contactDetails.AsDataView();
                 }
